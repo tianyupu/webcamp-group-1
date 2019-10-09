@@ -1,6 +1,10 @@
+
+
 test merg conflict
 
 rebase somethuing 2
 
 rebase ivan
  shadhashd
+ dodamo nesto pa maknemo
+dodajemo nesto za revert
