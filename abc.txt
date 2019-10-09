@@ -1,6 +1,5 @@
 test merg conflict
- 
 
-rebase something
 
 rebase somethuing 2
+
