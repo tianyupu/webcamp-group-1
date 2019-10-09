@@ -1,0 +1,2 @@
+test merg conflict
+merge conflict linija 2
