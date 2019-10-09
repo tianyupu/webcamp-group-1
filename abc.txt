@@ -4,3 +4,6 @@ rebase somethuing 2
 
 rebase ivan
  shadhashd
+
+
+zadnji komit brisanje
